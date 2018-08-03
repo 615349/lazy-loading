@@ -6,7 +6,7 @@ class LazyLoad {
 
   canILoad() {
     let imglist = this.imglist;
-    for (let i = imglist.length; i--; ) {
+    for (let i = imglist.length; i--;) {
       this.getBound(imglist[i]) && this.loadImage(imglist[i], i);
     }
   }
