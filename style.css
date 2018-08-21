@@ -8,3 +8,14 @@ img {
   height: 200px;
   margin-bottom: 100px;
 }
+
+.container {
+  display: block;
+  width: 90vw;
+  height: 90vh;
+}
+
+.swag {
+  display: none;
+  top: 1px;
+}
