@@ -1,0 +1,19 @@
+{
+  "name": "lazy-loading",
+  "version": "1.0.0",
+  "description": "If there are multiple images on the page, don't load the image unless it is visible to customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benli615349/lazy-loading.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benli615349/lazy-loading/issues"
+  },
+  "homepage": "https://github.com/benli615349/lazy-loading#readme"
+}
